@@ -1,5 +1,6 @@
 # DataPrepKit
 In the DataPrepKit capstone project, students will create a Python package that serves as a comprehensive toolkit for preprocessing datasets. Leveraging their knowledge of NumPy and Pandas, students will design functions to seamlessly read data from various file formats, provide a data summary, handle missing values, and encode categorical data. The final deliverable will be a published package on PyPI under the name "DataPrepKit."
+
 Key Features:
 1. Data Reading: Implement functions to read data from different file formats such as CSV, Excel, and JSON, using Pandas.
 2. Data Summary: Develop functions that print key statistical summaries of the data, including the average and most frequent values, utilizing NumPy and Pandas.
